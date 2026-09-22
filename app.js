@@ -40,6 +40,9 @@ function displayGenres() {
     }
 }
 
+
+
+
 let availableGenres = ["Fiction", "Science", "History", "Biography"];
 
 displayGenres();
